@@ -100,7 +100,7 @@ header .intro {
     top: 50%;
 }
 header .intro h3 {
-    font-size: 50px;
+    font-size: 30px;
     margin: 0px;
     padding: 0px;
 }
@@ -237,7 +237,7 @@ section#Gallery div img:hover {
     -o-transform: scale(1.1);
 }
 section.quote {
-    background:url('asset/background-bromo.jpg') ;
+    background:url('projek/foto\ 3.jpg') ;
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -367,12 +367,5 @@ footer .layar-dalam .copyright {
         -ms-border-radius: 5px 5px 0px 0px;
         -o-border-radius: 5px 5px 0px 0px;
         height: 200px;
-    }
-    .support {
-        display: block;
-    }
-    .support div {
-        width: 100%;
-        padding-bottom: 30px;
     }
 }
